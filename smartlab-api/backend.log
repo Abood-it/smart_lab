@@ -1,0 +1,9 @@
+/app/smartlab-api/venv/lib/python3.12/site-packages/pydantic/_internal/_config.py:386: UserWarning: Valid config keys have changed in V2:
+* 'orm_mode' has been renamed to 'from_attributes'
+  warnings.warn(message, UserWarning)
+INFO:     Started server process [193108]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:34130 - "POST /token HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59662 - "GET /api/dashboard HTTP/1.1" 200 OK

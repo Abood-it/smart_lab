@@ -1,0 +1,1 @@
+﻿{"private":true,"scripts":{"build":"cd smartlab-ui && npm install && npm run build","dev":"cd smartlab-ui && npm run dev","lint":"cd smartlab-ui && npm run lint"}}

@@ -1,0 +1,1 @@
+﻿{"builds":[{"src":"smartlab-ui/package.json","use":"@vercel/static-build","config":{"distDir":"smartlab-ui/dist"}}],"routes":[{"src":"/(.*)","dest":"/smartlab-ui/dist/$1"}]}
